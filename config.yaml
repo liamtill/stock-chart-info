@@ -1,0 +1,5 @@
+port: 8050
+debug: False
+lookback: 400
+fmpcloud_api_key: <ENTER FMPCLOUD API KEY>
+finnhub_api_key: <ENTER FINNHUB API KEY>
